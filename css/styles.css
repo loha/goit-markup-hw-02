@@ -69,22 +69,22 @@ header address .contact-info__first:focus {
 }
 
 .first-content .order-button {
-  background-color: #4D5AE5;
+  background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  cursor: pointer
+  cursor: pointer;
 }
 
 .first-content .order-button:hover {
-  background-color: #404BBF;
+  background-color: #404bbf;
 }
 
 .first-content .order-button:focus {
-  background-color: #404BBF;
+  background-color: #404bbf;
 }
 
 .second-content .second-content__title {
@@ -100,4 +100,35 @@ header address .contact-info__first:focus {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.third-content {
+  background-color: #f4f4fd;
+}
+
+.third-content .title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42; 
+}
+
+.third-content .third-content__list-item {
+  background-color: #FFFFFF;
+}
+
+.third-content .title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.third-content .text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
