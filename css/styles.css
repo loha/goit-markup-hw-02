@@ -106,6 +106,12 @@ header address .contact-info__first:focus {
   background-color: #f4f4fd;
 }
 
+
+
+.third-content .third-content__list-item {
+  background-color: #FFFFFF;
+}
+
 .third-content .title {
   font-size: 36px;
   line-height: 1.11;
@@ -113,18 +119,6 @@ header address .contact-info__first:focus {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42; 
-}
-
-.third-content .third-content__list-item {
-  background-color: #FFFFFF;
-}
-
-.third-content .title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
 }
 
 .third-content .text {
