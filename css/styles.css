@@ -126,6 +126,11 @@ header address .contact-info__first:focus {
   letter-spacing: 0.02em;
 }
 
+.third-content .third-content__list-item .title {
+  font-size: 20px;
+  line-height: 1.2;
+}
+
 .fourth-content .title {
   font-size: 36px;
   line-height: 1.11;
