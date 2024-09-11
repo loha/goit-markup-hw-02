@@ -8,6 +8,11 @@ ul li {
   list-style-type: none;
 }
 
+a {
+  text-decoration: none; /* Відміняє підкреслення */
+  color: inherit; /* Використовує колір тексту, встановлений для батьківського елементу */
+}
+
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
